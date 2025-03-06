@@ -43,7 +43,7 @@ Linux system with AX.25 support and network the two with Ethernet.
 
 KA9Q NOS still has some utility in small imbedded applications.
 But you should also check out any of the several imbedded versions of Linux, such as
-[Hard Hat Linux](http://www.hardhatlinux.com/).
+Hard Hat Linux, now [MontaVista](http://www.mvista.com/).
 
 ### Software
 
